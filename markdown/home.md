@@ -1,4 +1,6 @@
-<date>01.02.25</date>
+---
+
+<span class="date">01.02.25</span>
 
 ## Blogging is for nerds
 

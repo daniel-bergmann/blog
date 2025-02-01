@@ -158,10 +158,9 @@ a {
   text-decoration: none;
 }
 
-
-date {
+.date {
   font-size: 0.8em;
-  color: #666;
+  color: #7e7e7e;
 }
 a:hover {
   text-decoration: underline;
