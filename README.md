@@ -1,4 +1,4 @@
-# Daniel Bergmann - blog
+# Daniel Bergmann - Blog
 
 ---
 
